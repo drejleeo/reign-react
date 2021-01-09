@@ -1,0 +1,20 @@
+ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    /* background-color: #765D69; */
+    width: 100hv;
+    color: var(--global-text-color);
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 15px 40px 15px 40px;
+}
+
+.nav-links li a:hover {
+    color: var(--global-text-color);
+}

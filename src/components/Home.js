@@ -13,7 +13,6 @@ import Table from '@editorjs/table';
 // import AttachesTool from '@editorjs/attaches';
 import Undo from 'editorjs-undo';
 
-
 const editor = new EditorJS({ 
     holder: 'write-posts',
     placeholder: 'Write here',
@@ -34,7 +33,6 @@ const editor = new EditorJS({
         new Undo({ editor });
     },
 });
-
 
 class Home extends Component {
     state = {  }

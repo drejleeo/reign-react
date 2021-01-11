@@ -4,6 +4,9 @@ This is a project I started out of the need of putting all my thoughts in one pl
 
 I chose to start a new application because I really want to keep my data safe and unreachable.
 
+### Demo
+Here's the Github Pages [demo](https://leoneg.github.io/reign-react/) of app. 
+
 ### I intend to use this app for the following topics:
 * Song lyrics
 * Photography

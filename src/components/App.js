@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/reign-react">
       <Nav />
       <div className="main-panel">
         <Switch>

@@ -4,7 +4,6 @@ ul, li {
 }
 
 .navbar {
-    /* background-color: #765D69; */
     width: 100hv;
     color: var(--global-text-color);
     padding: 0;

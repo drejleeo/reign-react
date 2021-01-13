@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reign-react/static/css/main.802ce6b1.chunk.css",
-    "main.js": "/reign-react/static/js/main.56574f6a.chunk.js",
-    "main.js.map": "/reign-react/static/js/main.56574f6a.chunk.js.map",
-    "runtime-main.js": "/reign-react/static/js/runtime-main.63884552.js",
-    "runtime-main.js.map": "/reign-react/static/js/runtime-main.63884552.js.map",
+    "main.css": "/reign-react/static/css/main.a95b1efb.chunk.css",
+    "main.js": "/reign-react/static/js/main.e6066b46.chunk.js",
+    "main.js.map": "/reign-react/static/js/main.e6066b46.chunk.js.map",
+    "runtime-main.js": "/reign-react/static/js/runtime-main.19652706.js",
+    "runtime-main.js.map": "/reign-react/static/js/runtime-main.19652706.js.map",
     "static/css/2.43b2b750.chunk.css": "/reign-react/static/css/2.43b2b750.chunk.css",
-    "static/js/2.0aac61e6.chunk.js": "/reign-react/static/js/2.0aac61e6.chunk.js",
-    "static/js/2.0aac61e6.chunk.js.map": "/reign-react/static/js/2.0aac61e6.chunk.js.map",
-    "static/js/3.6c121f13.chunk.js": "/reign-react/static/js/3.6c121f13.chunk.js",
-    "static/js/3.6c121f13.chunk.js.map": "/reign-react/static/js/3.6c121f13.chunk.js.map",
+    "static/js/2.b76e2421.chunk.js": "/reign-react/static/js/2.b76e2421.chunk.js",
+    "static/js/2.b76e2421.chunk.js.map": "/reign-react/static/js/2.b76e2421.chunk.js.map",
+    "static/js/3.eace5bcc.chunk.js": "/reign-react/static/js/3.eace5bcc.chunk.js",
+    "static/js/3.eace5bcc.chunk.js.map": "/reign-react/static/js/3.eace5bcc.chunk.js.map",
     "index.html": "/reign-react/index.html",
     "static/css/2.43b2b750.chunk.css.map": "/reign-react/static/css/2.43b2b750.chunk.css.map",
-    "static/css/main.802ce6b1.chunk.css.map": "/reign-react/static/css/main.802ce6b1.chunk.css.map",
-    "static/js/2.0aac61e6.chunk.js.LICENSE.txt": "/reign-react/static/js/2.0aac61e6.chunk.js.LICENSE.txt"
+    "static/css/main.a95b1efb.chunk.css.map": "/reign-react/static/css/main.a95b1efb.chunk.css.map",
+    "static/js/2.b76e2421.chunk.js.LICENSE.txt": "/reign-react/static/js/2.b76e2421.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63884552.js",
+    "static/js/runtime-main.19652706.js",
     "static/css/2.43b2b750.chunk.css",
-    "static/js/2.0aac61e6.chunk.js",
-    "static/css/main.802ce6b1.chunk.css",
-    "static/js/main.56574f6a.chunk.js"
+    "static/js/2.b76e2421.chunk.js",
+    "static/css/main.a95b1efb.chunk.css",
+    "static/js/main.e6066b46.chunk.js"
   ]
 }

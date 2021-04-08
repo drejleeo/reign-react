@@ -9,17 +9,19 @@ function App() {
   return (
     <Router basename="/reign-react">
       <Nav />
-      <div className="main-panel w-50 mx-auto text-center">
-        <Switch>
-          {/* Navigation */}
-          <Route path="/" exact component={Home} />
-          <Route path="/us" exact component={About} />
+      <main className="">
+        <div className="main-panel">
+          <Switch>
+            {/* Navigation */}
+            <Route path="/" exact component={Home} />
+            <Route path="/us" exact component={About} />
 
-          {/* Lyrics */}
-          <Route path="/lyrics" exact component={Lyrics} />
-          <Route path="/lyrics/new" exact component={LyricsCreate} />
-        </Switch>
-      </div>
+            {/* Lyrics */}
+            <Route path="/lyrics" exact component={Lyrics} />
+            <Route path="/lyrics/new" exact component={LyricsCreate} />
+          </Switch>
+        </div>
+      </main>
     </Router>
   );
 }

@@ -4,9 +4,11 @@ ul, li {
 }
 
 .navbar {
-    width: 100hv;
+    width: 100vw;
+    height: var(--size-nav-height);
     color: var(--global-text-color);
     padding: 0;
+    border-bottom: 1px solid #d5d5d5;
 }
 
 .nav-links li {

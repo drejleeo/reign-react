@@ -1,0 +1,40 @@
+.flatNature {
+    --first: #513b56;
+    --second: #525174;
+    --third: #348aa7;
+    --fourth: #5dd39e;
+    --fifth: #bce784;
+}
+
+.olive {
+    --first: #344e41;
+    --second: #3a5a40;
+    --third: #588157;
+    --fourth: #a3b18a;
+    --fifth: #dad7cd;
+}
+
+.sunset {
+    --first: #484a47;
+    --second: #5c6d70;
+    --third: #a37774;
+    --fourth: #e88873;
+    --fifth: #e0ac9d;
+}
+
+.guevara {
+    --first: #202c39;
+    --second: #283845;
+    --third: #b8b08d;
+    --fourth: #f2d492;
+    --fifth: #f29559;
+}
+
+.seaHorizon {
+    --first: #765d69;
+    --second: #f1828d;
+    --third: #fcd0ba;
+    --fourth: #fefad4;
+    --fifth: #8fb9a8;
+}
+

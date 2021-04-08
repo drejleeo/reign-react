@@ -1,0 +1,49 @@
+.notebook {
+    margin: 0;
+    width: 100%;
+
+    .full-min-height { min-height: calc(100vh - var(--size-nav-height)); }
+
+    .nb-page {
+        overflow: scroll;
+
+        // Border
+        border-right: 1px solid #d5d5d5;
+
+        .nb-format-lines {
+            min-height: 40%;
+            width: 40%;
+            // padding: 50px 0 50px 6vh;
+
+            .title-input {
+                font-size: 38px;
+                padding: 20px 0 20px 0;
+            }
+        }
+    }
+
+    .nb-side-panel {
+        // Match padding of .col-4 class
+        padding-top: 15px;
+
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+
+            .video-beat-frame {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                border: 0;
+            }
+        }
+
+        .nb-side-meta {
+            width: 100%;
+            padding: 35px;
+        }
+    }
+}

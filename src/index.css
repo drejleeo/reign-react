@@ -53,7 +53,7 @@ a {
 }
 
 .no-border {
-  border-style: none;
+  border-style: none !important;
 }
 
 .no-focus:focus {

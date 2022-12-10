@@ -2,20 +2,25 @@
     margin: 0;
     width: 100%;
 
-    .full-min-height { min-height: calc(100vh - var(--size-nav-height)); }
+    // .full-min-height { min-height: calc(100vh - var(--size-nav-height)); }
+    .full-min-height { height: calc(100vh - var(--size-nav-height)); }
 
     .nb-page {
-        overflow: scroll;
+        overflow: auto;
 
         // Border
         border-right: 1px solid #d5d5d5;
 
-        .nb-format-lines {
-            min-height: 40%;
-            width: 40%;
-            // padding: 50px 0 50px 6vh;
+        .nb-article {
+            min-height: 50%;
+            min-width: 20%;
+            max-width: 55%;
 
-            .title-input {
+            // Add spacing at top and bottom of the article
+            padding-top: 10vh;
+            padding-bottom: 10vh;
+
+            .nb-title {
                 font-size: 38px;
                 padding: 20px 0 20px 0;
             }
@@ -24,14 +29,14 @@
 
     .nb-side-panel {
         // Match padding of .col-4 class
-        padding-top: 15px;
+        // padding-top: 15px;
 
         .video-container {
             position: relative;
             width: 100%;
             padding-bottom: 56.25%;
 
-            .video-beat-frame {
+            #video-frame {
                 position: absolute;
                 top: 0;
                 left: 0;
